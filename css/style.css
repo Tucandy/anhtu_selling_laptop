@@ -1,0 +1,95 @@
+.vertical-menu {
+    width: 100%; /* Set a width if you like */
+}
+
+.vertical-menu a {
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+p.title-cate {
+    background: aquamarine;
+    padding: 10px;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+}
+ul.tinlienquan {
+    /* list-style: none; */
+    padding: 0;
+    margin: 0 60px;
+}
+ul.tinlienquan li a:hover {
+    color: #ddd;
+}
+.carousel-inner .item img {
+    height: 450px;
+    width: 100%;
+}
+ul.tinlienquan li {
+    font-size: 16px;
+}
+ul.tinlienquan li a {
+    color: #000;
+    text-decoration: none;
+}
+.row.row-tin {
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+.vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+    background-color: #4CAF50; /* Add a green color to the "active/current" link */
+    color: white;
+}
+.col-lg-3.col-md-3.col-xs-12.col-sm-12.padding-0 {
+    padding: 0;
+    margin: 0;
+}
+.vertical-menu a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+h5.mb-1.title-news {
+    text-align: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+p.mb-1.desc-news {
+    margin-top: 8px;
+    font-size: 12px;
+}
+p.title-product {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+p.price {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+input.button-styling {
+    border: none;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    background: cadetblue;
+    color: #000;
+}
+a.link-sanpham {
+    text-decoration: none;
+}
+.col-lg-3.col-md-3.col-xs-12.col-sm-12.hover-sanpham:hover {
+    box-shadow: 2px 2px 2px #ddd;
+
+}
+.col-lg-3.col-md-3.col-xs-12.col-sm-12.hover-sanpham {
+    margin-bottom: 15px;
+}
